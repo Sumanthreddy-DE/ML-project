@@ -1,3 +1,3 @@
 # ML-project
 
-hii
+Apply PCA to do Dimensionality reduction
